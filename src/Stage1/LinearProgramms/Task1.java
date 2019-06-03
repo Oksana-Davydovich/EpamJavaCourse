@@ -1,4 +1,4 @@
-package Stage1;
+package Stage1.LinearProgramms;
 
 import java.util.Scanner;
 
@@ -16,6 +16,5 @@ public class Task1 {
 
         double z = ((a - 3) * b / 2) + c;
         System.out.print("z = " + z);
-
     }
 }
